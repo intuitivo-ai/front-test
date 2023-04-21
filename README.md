@@ -22,6 +22,7 @@ Tengo que poder listar, crear y modificar los destinos.
 ### Levantar el backend en local
 
 `npm i`
+
 `npm run db`
 
 
