@@ -1,6 +1,8 @@
 
 # frontend-test
 
+Completar los siguientes ejercicios, subirlos a su cuenta de github y enviarnos el link.
+
 ## Ejercicio 1
 
 Crear un dashboard con [https://nextjs.org/] donde puedo manejar los destinos de viajes.
@@ -48,6 +50,9 @@ Body:
 
 Buscar con filtros
 http://localhost:3000/locations?name_like=Methuen
+
+Obtener por id
+http://localhost:3000/locations/4
 
 
 ## Ejercicio 2 
