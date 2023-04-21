@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "json-server": "^0.17.3"
+  },
+  "name": "test-api",
+  "version": "1.0.0",
+  "scripts": {
+    "db": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/intuitivo-ai/test-api.git"
+  },
+  "author": "Willy Schwindt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/intuitivo-ai/test-api/issues"
+  },
+  "homepage": "https://github.com/intuitivo-ai/test-api#readme",
+  "description": ""
+}
